@@ -1,0 +1,11 @@
+{
+  "name": "myagri",
+  "displayName": "myagri",
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "8a0fc8f2-3580-438a-b873-41b52637d8a2"
+      }
+    }
+  }
+}

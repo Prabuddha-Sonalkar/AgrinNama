@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "99137112228",
+    "project_id": "myagri-6485a",
+    "storage_bucket": "myagri-6485a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99137112228:android:28e8c1903f6303f5d5fe31",
+        "android_client_info": {
+          "package_name": "com.myagri"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8eFBJKt6L6aDTWXu20RPqbx01F4dLXuA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version":"1"
+}
